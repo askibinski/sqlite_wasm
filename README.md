@@ -10,3 +10,7 @@ https://news.ycombinator.com/item?id=33374402
 
 Helpful articles:
 https://javascript.plainenglish.io/a-beginners-guide-to-setting-up-and-using-sqlite-3-in-a-browser-based-application-9e60cefe75ce
+
+# TODO
+
+- Custom jsstorage
